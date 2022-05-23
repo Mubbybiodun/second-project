@@ -53,10 +53,10 @@ function checkInputs() {
 
     if(confirm_passwordValue === '') {
         setErrorFor(confirm_password, 'Confirm Password cannot be blank');
-    } else if(password !== confirm_password) {
+    } else if(passwordValue !== confirm_passwordValue) {
         setErrorFor(confirm_password, 'Passwords does not match');
     } else {
-        setSuccessFor(password);
+        setSuccessFor(confirm_password);
     }
 }
 
