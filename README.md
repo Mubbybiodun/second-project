@@ -5,7 +5,7 @@
 1. Mubarak Tijani - Team Lead
 2. Oluwatomiwa Temidayo - Assistant Team Lead
 3. Ridwan Raji
-4.Yusuf Abdulbasit
+4. Yusuf Abdulbasit
 5. Olabode Isiaq
 6. Precious Abdulsalam
 7. John Zhang
